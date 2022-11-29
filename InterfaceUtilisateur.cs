@@ -123,6 +123,7 @@ namespace LaboFinal_A22
         public void afficherCarte()
         {
             // pour chaque unité de hauteur de la carte
+            List<string> carte = new List<string>();    
 
                 // pour chaque unité de largeur de la carte
 
